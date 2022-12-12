@@ -5,3 +5,5 @@
 [![aabeid Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAbeidDev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/AmineAbeidDev)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="amineabeid" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/amineabeid?trk=profile-badge">Amine abeid</a></div>
+              
